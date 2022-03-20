@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npx tailwindcss -i ./src/css/input.css -o ./public/dist/output.css`
+### `npx tailwindcss -i ./src/input.css -o ./public/dist/output.css`
 
 Run to create css output.
 
